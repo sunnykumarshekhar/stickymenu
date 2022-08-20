@@ -1,0 +1,64 @@
+body{
+    margin: 0px;
+
+}
+#header{
+    text-align: center;
+}
+#logo{
+    width: 250px;
+    height: auto;
+}
+#navbar{
+    text-align: center;
+    background-color: green;
+}
+#navbar li{
+    display: inline-block;
+    padding: 15px 10px;
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+#container{
+    text-align: center;
+    padding: 50px 100px;
+}
+#container h1{
+    font-size: 80px;
+}
+#about-img{
+    width: 100%;
+}
+ .sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+} 
+ #footer{
+    background-color:rgb(10, 9, 9);
+}
+
+#footer ul{
+    padding: 30px 20px;
+    text-align: center;
+    color: rgb(32, 25, 25);
+}
+#footer li{
+    text-align: center;
+    display: flex;
+    display: inline;
+    padding: 15px;
+    color: aliceblue;
+    text-decoration: none;
+
+} 
+#author p{
+    color: orange;
+}
+#author {
+    background-color:rgb(12, 10, 10);
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 18px;
+}
